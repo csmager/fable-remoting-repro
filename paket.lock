@@ -1,0 +1,11 @@
+RESTRICTION: == netcoreapp2.0
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Fable.JsonConverter (1.0.8)
+      FSharp.Core (>= 4.2.3)
+      Newtonsoft.Json (>= 11.0.1)
+    Fable.Remoting.Json (2.0)
+      FSharp.Core (>= 4.3.4)
+      Newtonsoft.Json (>= 11.0.1)
+    FSharp.Core (4.3.4)
+    Newtonsoft.Json (11.0.2)
